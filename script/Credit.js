@@ -6,7 +6,7 @@ var creditState = function(game){
         
         create: function(){
             console.log(game.state.getCurrentState());
-            this.stage.backgroundColor = '#F1FF87';
+            this.stage.backgroundColor = '#f8fcde';
             this.buildInterface();
             game.global.menuBgSound.stop();
             
