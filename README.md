@@ -8,6 +8,7 @@ Alternatively in netlify https://jump-cloud.netlify.app/
 
 Feel free to contribute by forking and requesting a pull request.
 Thanks to previous contributers to this game. Based on doodle jump.
+
 Contact: John Mosquera tradexy@gmail.com
 
 Enjoy studying and taking breaks now and then 🎓
